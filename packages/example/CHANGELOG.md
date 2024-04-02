@@ -1,5 +1,15 @@
 # example
 
+## 0.0.95
+
+### Patch Changes
+
+- 81ba812: Added support for `zetachain` and `zetachainAthensTestnet` testnet chain
+- Updated dependencies [81ba812]
+  - @rainbow-me/rainbowkit@2.0.5
+  - @rainbow-me/rainbow-button@0.2.5
+  - @rainbow-me/rainbowkit-siwe-next-auth@0.4.0
+
 ## 0.0.94
 
 ### Patch Changes

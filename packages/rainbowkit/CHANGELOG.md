@@ -1,5 +1,11 @@
 # @rainbow-me/rainbowkit
 
+## 2.0.5
+
+### Patch Changes
+
+- 81ba812: Added support for `zetachain` and `zetachainAthensTestnet` testnet chain
+
 ## 2.0.4
 
 ### Patch Changes
